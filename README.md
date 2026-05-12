@@ -101,3 +101,4 @@ A China dataset of soil properties for land surface modelling (version 2, CSDLv2
 * 由于 GitHub 文件大小限制，部分原始数据可能未上传
 * 如需完整数据，请参考原始文献获取
 * 本项目仅用于科研教学用途
+##本人参与中国土壤CSDLv2数据集整理、文档完善与数据分析学习
